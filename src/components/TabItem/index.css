@@ -1,0 +1,21 @@
+.button-btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border: none;
+  background-color: transparent;
+  padding: 4px;
+  margin: 10px;
+}
+
+.active-btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #fec653;
+  padding: 4px;
+  background-color: transparent;
+  margin: 10px;
+}

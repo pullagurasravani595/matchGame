@@ -1,0 +1,10 @@
+.button-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.thumbnail-img {
+  width: 90px;
+  height: 90px;
+  margin-right: 26px;
+}
